@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\user\Documents\プログラミング技法Ⅰ\text-editer\text-editer\Source.cpp(21): warning C4473: 'scanf_s': 書式文字列として渡された引数が不足しています
+  C:\Users\user\Documents\プログラミング技法Ⅰ\text-editer\text-editer\Source.cpp(21): note: プレースホルダーとそのパラメーターには 2 の可変個引数が必要ですが、1 が指定されています。
+  C:\Users\user\Documents\プログラミング技法Ⅰ\text-editer\text-editer\Source.cpp(21): note: 不足している可変個引数 2 が書式文字列 '%c' に必要です
+  C:\Users\user\Documents\プログラミング技法Ⅰ\text-editer\text-editer\Source.cpp(21): note: この引数はバッファー サイズとして使用されます
+  text-editer.vcxproj -> C:\Users\user\Documents\プログラミング技法Ⅰ\text-editer\Debug\text-editer.exe
